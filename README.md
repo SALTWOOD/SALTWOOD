@@ -1,4 +1,4 @@
-Hello everyone,I'm SALTWOOD,a junior high school student from China.I'm born in January 2009.
+Hello everyone,I'm SALTWOOD,a junior high school student from China.I was born in January 2009.
 I usually like to play music games, and I like to play "Arcaea" and "Phigros". Recently, I plan to develop my own games and learn C# for this purpose.
 I am learning programming.I can program in C# and Python.My Bilibili account is "SALTWOOD",please give me a subscription if you can.Thank you.
 
