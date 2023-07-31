@@ -1,6 +1,6 @@
 Hello everyone,I'm SALTWOOD,a junior high school student from China.
 
-I am learning programming.I can program in C#, Java and Python.My Bilibili account is "SALTWOOD",please give me a subscription if you can.Thank you.
+I am learning programming.I can program in C#, Java and Python.My Bilibili account is "SaltWood_233",please give me a subscription if you can.Thank you.
 
 大家好，我是SALTWOOD，一位来自中国的初中生。
 
