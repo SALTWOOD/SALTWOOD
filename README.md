@@ -1,7 +1,7 @@
 # 自我介绍
 
-大家好，我是SALTWOOD，一位来自中国的初中生。
-我乐于学习编程并善于编程。我会C# Java 和 Python。我的Bilibili帐号是"SaltWood_233",如果可以请一键三连哦～
+大家好，我是SALTWOOD。
+我乐于学习编程并善于编程。我会C# Java 和 Python。我的Bilibili帐号是"SaltWood_233",爱发电同名
 
 # My GitHub Stats
 
