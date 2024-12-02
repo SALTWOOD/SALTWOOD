@@ -6,17 +6,19 @@
 我的Bilibili帐号是"SaltWood_233"，爱发电同名   
 是一个高一生，目前走读，活跃率为每日晚。   
 爱玩 **Minecraft、碧蓝航线、蔚蓝档案以及一些音游**。学习成绩不错，理科不错文科一般。   
-是 [@SaltWood-Studio](https://github.com/SaltWood-Studio) 的 Owner 之一（呜呜呜[米露](https://github.com/Mxmilu666)是大佬）。   
+是 [@SaltWood-Studio](https://github.com/SaltWood-Studio) 的 Owner 之一。   
 
-比较擅长：C#、Python   
-会：Java、TypeScript   
-在学：PHP（呜呜呜[米露](https://github.com/Mxmilu666)是大佬）、JavaScript   
+比较擅长：C#、Python、TypeScript   
+会：Java、JavaScript   
 
 主要项目有：
 - [CSharp-OpenBMCLAPI](https://github.com/SaltWood-Studio/CSharp-OpenBMCLAPI)：C# 版本的 OpenBMCLAPI
 - [Open93AtHome-V3](https://github.com/SaltWood-Studio/Open93AtHome-V3)：Open93AtHome 的 V3 重构版本
 - [TeraIO](https://github.com/SaltWood-Studio/TeraIO)：自用支持库
 - [MiluIsGod](https://github.com/SALTWOOD/MiluIsGod)：米  露  是  神  ！
+
+# 友情链接
+- 米露 @Mxmilu666
 
 # My GitHub Stats
 
