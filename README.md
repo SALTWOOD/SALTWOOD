@@ -1,8 +1,10 @@
 # 自我介绍
 
+![](https://api.xecades.xyz/api?email=saltwood2333%40gmail.com&github=SALTWOOD&bilibili=SALTWOOD&img=1)
+
 大家好，我是SALTWOOD。   
 我的Bilibili帐号是"SaltWood_233"，爱发电同名   
-是一个高一生，住校，预计活跃率为两周一天。   
+是一个高一生，目前走读，活跃率为每日晚。   
 爱玩 **Minecraft、碧蓝航线、蔚蓝档案以及一些音游**。学习成绩不错，理科不错文科一般。   
 是 [@SaltWood-Studio](https://github.com/SaltWood-Studio) 的 Owner 之一（呜呜呜[米露](https://github.com/Mxmilu666)是大佬）。   
 
