@@ -4,7 +4,7 @@
 
 大家好，我是SALTWOOD。   
 我的Bilibili帐号是"SaltWood_233"，爱发电同名   
-是一个高一生，目前走读，活跃率为每日晚。   
+是一个高一生，目前走读，活跃时间段为每日晚上。   
 爱玩 **Minecraft、碧蓝航线、蔚蓝档案以及一些音游**。学习成绩不错，理科不错文科一般。   
 是 [@SaltWood-Studio](https://github.com/SaltWood-Studio) 的 Owner 之一。   
 
