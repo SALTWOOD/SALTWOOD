@@ -2,8 +2,8 @@
 
 ![](https://api.xecades.xyz/api?email=saltwood2333%40gmail.com&github=SALTWOOD&bilibili=SALTWOOD&img=1)
 
-大家好，我是SALTWOOD。   
-我的Bilibili帐号是"SaltWood_233"，爱发电同名   
+大家好，我是 SALTWOOD。   
+我的 Bilibili 帐号是 "SaltWood_233"，爱发电同名   
 是一个高一生，目前走读，活跃时间段为每日晚上。   
 爱玩 **Minecraft、碧蓝航线、蔚蓝档案以及一些音游**。学习成绩不错，理科不错文科一般。   
 是 [@SaltWood-Studio](https://github.com/SaltWood-Studio) 的 Owner 之一。   
