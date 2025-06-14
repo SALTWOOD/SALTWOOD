@@ -2,23 +2,29 @@
 
 ![](https://api.xecades.xyz/api?email=saltwood2333%40gmail.com&github=SALTWOOD&bilibili=SALTWOOD&img=1)
 
-大家好，我是 SALTWOOD。   
-我的 Bilibili 帐号是 "SaltWood_233"，爱发电同名   
-是一个高一生，目前走读，活跃时间段为每日晚上。   
-爱玩 **Minecraft、碧蓝航线、蔚蓝档案以及一些音游**。学习成绩不错，理科不错文科一般。   
-是 [@SaltWood-Studio](https://github.com/SaltWood-Studio) 的 Owner 之一。   
+# About Me
 
-比较擅长：C#、Python、TypeScript   
-会：Java、JavaScript   
+```
+昵称: SALTWOOD SaltWood_233 盐木
+Bilibili: https://space.bilibili.com/521343512
+年龄: 高一，16   
+性别: true
+所在地: AS4242420222
+```
+
+# Stack
+
+```
+C#、Python、TypeScript、JavaScript、PHP、Java
+HTML、CSS、Vue.js、Vuetify
+Express、Hono、WordPress
+Docker
+VSCode、Visual Studio、JetBrains IDEA
+```
 
 主要项目有：
 - [CSharp-OpenBMCLAPI](https://github.com/SaltWood-Studio/CSharp-OpenBMCLAPI)：C# 版本的 OpenBMCLAPI
-- [Open93AtHome-V3](https://github.com/SaltWood-Studio/Open93AtHome-V3)：Open93AtHome 的 V3 重构版本
-- [TeraIO](https://github.com/SaltWood-Studio/TeraIO)：自用支持库
-- [MiluIsGod](https://github.com/SALTWOOD/MiluIsGod)：米  露  是  神  ！
-
-# 友情链接
-- 米露 @Mxmilu666
+- [Open93AtHome-V4](https://github.com/SaltWood-Studio/Open93AtHome-V4)：Open93AtHome 的 V4 重构版本
 
 # My GitHub Stats
 
