@@ -7,7 +7,7 @@
 ```
 昵称: SALTWOOD SaltWood_233 盐木
 Bilibili: https://space.bilibili.com/521343512
-年龄: 高一，16   
+年龄: 高二，16   
 性别: true
 所在地: AS4242420222
 ```
