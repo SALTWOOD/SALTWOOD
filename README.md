@@ -7,15 +7,15 @@
 ```
 昵称: SALTWOOD SaltWood_233 盐木
 Bilibili: https://space.bilibili.com/521343512
-年龄: 高二，16   
+年龄: 高二，17   
 性别: true
-所在地: AS4242420222
+所在地: undefined
 ```
 
 # Stack
 
 ```
-C#、Python、TypeScript、JavaScript、PHP、Java
+C#、ASP.NET、Python、TypeScript、JavaScript、Nuxt.js、PHP、Java
 HTML、CSS、Vue.js、Vuetify
 Express、Hono、WordPress
 Docker
